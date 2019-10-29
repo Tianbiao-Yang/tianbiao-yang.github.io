@@ -1,6 +1,6 @@
 # Site settings
-title: Yichen Blog
-SEOTitle: 逸尘的博客 | Yichen Blog
+title: YC Blog
+SEOTitle: 逸尘的博客 | YC Blog
 header-img: img/post-bg-desk.jpg
 email: 54tianbiao@gmail.com
 description: "上善若水"
@@ -59,8 +59,8 @@ kramdown:
 
 
 
-# Disqus settings
-# disqus_username: hux
+Disqus settings
+disqus_username: tianbiaoyang
 
 # Netease settings
 netease_comment: false
