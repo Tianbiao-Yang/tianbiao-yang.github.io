@@ -1,8 +1,8 @@
 # Pyorch Geometric安装报错
 
 ### 问题
-``` linux
-RuntimeError: Detected that PyTorch and torch_spline_conv were compiled with different CUDA versions. PyTorch has CUDA version 10.0 and torch_spline_conv has CUDA version 0.0. Please reinstall the torch_spline_conv that matches your PyTorch install.
+```
+$ RuntimeError: Detected that PyTorch and torch_spline_conv were compiled with different CUDA versions. PyTorch has CUDA version 10.0 and torch_spline_conv has CUDA version 0.0. Please reinstall the torch_spline_conv that matches your PyTorch install.
 ```
 ### 解决策略
 ```python
