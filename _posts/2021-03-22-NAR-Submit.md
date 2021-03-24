@@ -40,7 +40,7 @@ NAR database issue和其他稿件不同的地方就在这里，这里需要先�
 * 然后，如果数据库与其他数据库有交叉链接，建议链接mapping回原来的数据库。编辑原话`I would particularly like to highlight the point about data derived from other databases. NAR sees many resources that derive (at least partly) from combination, reprocessing etc of other databases and it is extremely important that the licensing conditions are respected, and that due credit is given to the original databases both online and in the papers describing new resources.`
 * 最后，是英文写作上，哎！英文不地道，真减分不少。如果没得办法的话，建议找机构润色一下。
 
-整体而言，数据库主编 `Daniel J. Rigden`比较在意数据库的完整性，真实性和实用性。所以建议在做页面展示的时候，属性信息尽量多些，模棱两可的数据尽量别放，不然他会抓着不放。
+整体而言，数据库主编 `Daniel J. Rigden`比较在意数据库的完整性，真实性和实用性。所以建议在做页面展示的时候，属性信息尽量多些，模棱两可的数据尽量别放，不然他会抓着不放，我们是硬生生打太极打过去了......
 
 
 
