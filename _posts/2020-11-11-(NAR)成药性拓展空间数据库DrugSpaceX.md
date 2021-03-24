@@ -1,6 +1,6 @@
 ---
 layout:     post                 # 使用的布局（不需要改）
-title:      NAR Paper DrugSpaceX           # 标题 
+title:      DrugSpaceX: a large screenable and synthetically tractable database extending drug space           # 标题 
 subtitle:   成药性拓展空间数据库DrugSpaceX
 date:       2020-11-11              # 时间
 author:     Yichen Yang                      # 作者
