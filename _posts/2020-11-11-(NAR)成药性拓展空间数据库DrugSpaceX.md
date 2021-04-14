@@ -3,7 +3,7 @@ layout:     post                 # 使用的布局（不需要改）
 title:      DrugSpaceX				# 标题 
 subtitle:   成药性拓展空间数据库DrugSpaceX
 date:       2020-11-11              # 时间
-author:     Yichen Yang                      # 作者
+author:     Tianbiao Yang                      # 作者
 header-img: img/tag-bg.jpg  #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
