@@ -1,7 +1,7 @@
 ---
 layout:     post                 # 使用的布局（不需要改）
-title:      Nucleic Acids Research Submit # 标题 
-subtitle:   NAR database投稿中的注意事项
+title:      转博的一些注意事项 # 标题 
+subtitle:   在转博中的一些注意事项和厮杀
 date:       2021-04-03              # 时间
 author:     Tianbiao Yang                      # 作者
 header-img: img/fight_boy.jpeg  #这篇文章标题背景图片
@@ -9,7 +9,7 @@ catalog: true                       # 是否归档
 tags:                               #标签
     - Life
 ---
-# Nucleic Acids Research投稿中的注意事项
+# 转博的一些注意事项
 
 > NAR database的投稿方式和常规期刊不太一样，此处整理了投稿中的一些细节和注意事项，以及主编比较在意的地方，供您参考～
 
