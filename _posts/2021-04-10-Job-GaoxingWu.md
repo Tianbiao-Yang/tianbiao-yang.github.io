@@ -1,6 +1,6 @@
 ---
 layout:     post                 # 使用的布局（不需要改）
-title:      JOB-外企管培和临床岗位相关信息 # 标题 
+title:      外企管培和临床岗位相关信息 # 标题 
 subtitle:   Merck管培，济民可信的CRA和强生的供应链管培
 date:       2021-04-10              # 时间
 author:     Tianbiao Yang                      # 作者
