@@ -2,16 +2,16 @@
 layout:     post                 # 使用的布局（不需要改）
 title:      Nucleic Acids Research Submit # 标题 
 subtitle:   NAR database投稿中的注意事项
-date:       2021-03-22              # 时间
-author:     Yichen Yang                      # 作者
+date:       2021-04-03              # 时间
+author:     Tianbiao Yang                      # 作者
 header-img: img/fight_boy.jpeg  #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
-    - Paper
+    - Life
 ---
 # Nucleic Acids Research投稿中的注意事项
 
-> NAR database的投稿方式和常规期刊不太一样，此处整理了投稿中的一些细节和注意事项，以及数据库主编 `Daniel J. Rigden` 比较在意的地方，供您参考～
+> NAR database的投稿方式和常规期刊不太一样，此处整理了投稿中的一些细节和注意事项，以及主编比较在意的地方，供您参考～
 
 ## 1. 投稿前的卧薪尝胆
 ### 1.1 投稿时间和须知
