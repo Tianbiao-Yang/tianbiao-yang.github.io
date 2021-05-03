@@ -39,4 +39,4 @@ tags:                               #标签
 `Accept`，一般很少直接给这个状态;`Minor Revision`（一般不需要复审） 或`Major Revision`（一般要复审）， 还有些系统不向作者显示`Minor Revision` 或是`Major Revision`，而直接用一个`Revise或者Revisions`状态（表示让作者修改），这时作者们很难看出自己的文章要不要复审；`Reject`，这个不说了，说多了都是泪，很少有作者对审稿意见完全服气的，你呢？
 如果你收到的意见是让你小改，而你又认真改了，那么上面各状态再一次依次显示到`With Editor` 后，基本上就可以变成`Accept`了。如果是大改复审，那么准备再一次入轮回吧………
 
-`转载自：https://www.ithenticate.com.cn/news/185.html`
+部分内容转载自：https://www.ithenticate.com.cn/news/185.html
