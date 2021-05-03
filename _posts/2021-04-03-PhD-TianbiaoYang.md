@@ -1,7 +1,7 @@
 ---
 layout:     post                 # 使用的布局（不需要改）
 title:      转博的一些注意事项 # 标题 
-subtitle:   在转博中的一些注意事项和厮杀
+subtitle:   转博中的无声厮杀
 date:       2021-04-03              # 时间
 author:     Tianbiao Yang                      # 作者
 header-img: img/fight_boy.jpeg  #这篇文章标题背景图片
