@@ -8,6 +8,7 @@ header-img: img/fight_boy.jpeg  #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - Paper
+    - Life
 ---
 # Nucleic Acids Research投稿中的注意事项
 
