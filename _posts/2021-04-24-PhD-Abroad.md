@@ -4,7 +4,7 @@ title:      海外留学读博的相关信息 # 标题
 subtitle:   申请海外读博的注意事项
 date:       2021-05-04              # 时间
 author:     Tianbiao Yang                      # 作者
-header-img: img/tag-bg.jpg  #这篇文章标题背景图片
+header-img: img/post-bg-js-module.jpg  #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - Life
