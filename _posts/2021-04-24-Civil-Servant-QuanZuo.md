@@ -2,7 +2,7 @@
 layout:     post                 # 使用的布局（不需要改）
 title:      公务员选调生的相关信息 # 标题 
 subtitle:   考公务员的注意事项
-date:       2021-04-17              # 时间
+date:       2021-04-24              # 时间
 author:     Tianbiao Yang                      # 作者
 header-img: img/tag-bg.jpg  #这篇文章标题背景图片
 catalog: true                       # 是否归档
