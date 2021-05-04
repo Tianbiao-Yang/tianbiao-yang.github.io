@@ -4,7 +4,7 @@ title:      SCI论文投稿中的注意事项 # 标题
 subtitle:   NAR database投稿中的注意事项
 date:       2021-04-03              # 时间
 author:     Yichen Yang                      # 作者
-header-img: img/post-bg-desk.jpeg  #这篇文章标题背景图片
+header-img: img/post-bg-desk.jpg  #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
     - Paper
