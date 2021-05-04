@@ -2,8 +2,8 @@
 layout:     post                 # 使用的布局（不需要改）
 title:      SCI论文投稿的稿件状态 # 标题 
 subtitle:   投稿系统的各种稿件状态
-date:       2021-01-11              # 时间
-author:     Yichen Yang                      # 作者
+date:       2021-03-27              # 时间
+author:     Tianbiao Yang                      # 作者
 header-img: img/tag-bg.jpg  #这篇文章标题背景图片
 catalog: true                       # 是否归档
 tags:                               #标签
